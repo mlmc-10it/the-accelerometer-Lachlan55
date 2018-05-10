@@ -14,4 +14,4 @@
 
 # My Findings Of The Micro:Bit JavaScript/Python Code:
 <dt>Accelerometer Findings:<dt>
-<dd>While running the python code bout the accelerometer I found out that the movement of the x, y, and z axis (coords) would show you the designated image, in this case if the gesture made was in a positive z axis direction, the handheld micro:bit would display a happy face. Else it would display a frowning face.<dd>
+<dd>While running the python code about the accelerometer I found out that the movement of the x, y, and z axis (coords) would show you the designated image, in this case if the gesture made was in a positive z axis direction, the handheld micro:bit would display a happy face. Else it would display a frowning face. I believe you would be able to use the features of the x, y, and z axis' to display the exact coordinates on your micro:bit. This would be extremely useful for tasks like excavations where the coordinates are mandatory to know.<dd>
