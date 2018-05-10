@@ -12,4 +12,6 @@
 <dd>The thermometer on the micro:bit is embedded in one of the chips – and chips get warm when you power them up. Consequently, it doesn’t measure room temperature all that well. The chip that is used to measure temperature can be found on the left hand side of the back of the micro:bit.<dd>
 <img src="http://microbit-challenges.readthedocs.io/en/latest/_images/thermometer.jpg" alt"" height="250" width="280">
 
-# My Findings Of The Micro:Bit JavaScript/Python Code
+# My Findings Of The Micro:Bit JavaScript/Python Code:
+<dt>Accelerometer Findings:<dt>
+<img src="file:///Users/Lachlan/Desktop/Screen%20Shot%202018-05-10%20at%2012.22.15%20PM.png" alt"" height="250" width="280">
