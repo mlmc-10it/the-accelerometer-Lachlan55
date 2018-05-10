@@ -14,4 +14,4 @@
 
 # My Findings Of The Micro:Bit JavaScript/Python Code:
 <dt>Accelerometer Findings:<dt>
-<img src="file:///Users/Lachlan/Desktop/Screen%20Shot%202018-05-10%20at%2012.22.15%20PM.png" alt"" height="250" width="280">
+<dd>While running the python code bout the accelerometer I found out that the movement of the x, y, and z axis (coords) would show you the designated image, in this case if the gesture made was in a positive z axis direction, the handheld micro:bit would display a happy face. Else it would display a frowning face.<dd>
